@@ -7,17 +7,12 @@ using System;
         {
             int input = Grid.input;
             int Merkez = input ;
-            foreach (var item in Grid.points)
-            {
-             Console.WriteLine(" X  : " + item.x+ "     Y  : " + item.y);       
-    
-            }
             Console.WriteLine(Grid.points.Count);
             foreach (var item in Grid.points)
             {
                 float leftSide = item.x*item.x + item.y*item.y;
                 float RightSide = input*input;
-                if(Math.Round(leftSide/10) == Math.Round(RightSide/10))
+                if(Math.Round(leftSide/(input*2.5f)) == Math.Round(RightSide/(input*2.5f)))
                 {
                     item.symbol = 'o';
                 }
@@ -32,7 +27,7 @@ using System;
                         if(item.x == i && item.y == j)
                         {
                             Console.Write(item.symbol);
-                            Console.Write(' ');
+                            Console.Write(item.symbol);
                         }
                     }
                 }
