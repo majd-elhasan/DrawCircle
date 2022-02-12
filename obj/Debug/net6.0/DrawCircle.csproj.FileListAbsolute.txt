@@ -1,0 +1,15 @@
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\bin\Debug\net6.0\DrawCircle.exe
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\bin\Debug\net6.0\DrawCircle.deps.json
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\bin\Debug\net6.0\DrawCircle.runtimeconfig.json
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\bin\Debug\net6.0\DrawCircle.dll
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\bin\Debug\net6.0\ref\DrawCircle.dll
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\bin\Debug\net6.0\DrawCircle.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.csproj.AssemblyReference.cache
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.AssemblyInfoInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.AssemblyInfo.cs
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.csproj.CoreCompileInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.dll
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\ref\DrawCircle.dll
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\DrawCircle\obj\Debug\net6.0\DrawCircle.genruntimeconfig.cache
