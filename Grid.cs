@@ -13,9 +13,9 @@ using System;
             boyut = input *2 +1;
             
              
-            for(int ey = 0 ; ey< boyut; ey++)
+            for(int ey = -input ; ey< input+1; ey++)
             {
-                for(int ex = 0 ; ex< boyut; ex++)
+                for(int ex = -input ; ex< input+1; ex++)
                 {
                 Point point = new Point();
                 point.y = ey;

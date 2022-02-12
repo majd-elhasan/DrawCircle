@@ -9,21 +9,30 @@ using System;
             int Merkez = input ;
             foreach (var item in Grid.points)
             {
-                if(item.x == 0 && item.y == 2)
+             Console.WriteLine(" X  : " + item.x+ "     Y  : " + item.y);       
+    
+            }
+            Console.WriteLine(Grid.points.Count);
+            foreach (var item in Grid.points)
+            {
+                float leftSide = item.x*item.x + item.y*item.y;
+                float RightSide = input*input;
+                if(Math.Round(leftSide/10) == Math.Round(RightSide/10))
                 {
                     item.symbol = 'o';
                 }
             }
             Console.WriteLine();
-            for(int i = 0 ; i < Grid.boyut ; i++)
+            for(int i = -input ; i <= input ; i++)
             {
-                for(int j = 0; j < Grid.boyut ; j++)
+                for(int j = -input; j <= input ; j++)
                 {
                     foreach(var item in Grid.points)
                     {
                         if(item.x == i && item.y == j)
                         {
                             Console.Write(item.symbol);
+                            Console.Write(' ');
                         }
                     }
                 }
