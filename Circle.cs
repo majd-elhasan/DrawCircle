@@ -7,7 +7,7 @@ using System;
         {
             int input = Grid.input;
             int Merkez = input ;
-            Console.WriteLine(Grid.points.Count);
+            Console.WriteLine(Grid.boyut + " X "+ Grid.boyut + " pixel square");
             foreach (var item in Grid.points)
             {
                 float leftSide = item.x*item.x + item.y*item.y;
